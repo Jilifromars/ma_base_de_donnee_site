@@ -1,0 +1,38 @@
+{ "Destination":[
+    {
+      "Pays": "Sénégal",
+      "Ville": "Dakar",
+      "Prix" : "250",
+      "Photos": [
+          "../CSS/IMG/dakar-1.jpg",
+          "../CSS/IMG/dakar-2.jpg"
+      ],
+      "Options": [
+          {
+              "Nom": "Repas du soir",
+              "Prix": "12"
+        },
+        {
+            "Nom": "Voyage guidé de la ville",
+            "Prix": "24"
+        }
+      ]
+    },
+
+    {
+      "Pays": "Maroc",
+      "Ville": "Rabat",
+      "Prix" : "130",
+      "Photos": [
+          "../CSS/IMG/Maroc-1.jpg",
+          "../CSS/IMG/Maroc-2.jpg"
+      ],
+      "Options": [
+          {
+              "Nom": "Repas du soir",
+              "Prix": "20"
+        }
+      ]
+    }
+  ]
+}
